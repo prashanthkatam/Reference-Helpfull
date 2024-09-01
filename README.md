@@ -66,3 +66,6 @@ This will import all the SQL commands and data from `test.sql` into `mydatabase`
 
 
 mysql -h mysqldb.cl00o48m41xv.us-east-1.rds.amazonaws.com -u admin -p msmsdb < test.sql
+
+
+https://phpgurukul.com/men-salon-management-system-using-php-and-mysql/
